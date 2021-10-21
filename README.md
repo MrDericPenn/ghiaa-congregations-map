@@ -2,7 +2,7 @@
 DRAFT version
 
 ## DRAFT Live links
-- Leaflet Map https://jackdougherty.github.io/ghiaa-congregations-map/
+- Leaflet Map https://mrdericpenn.github.io/ghiaa-congregations-map/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1bW9xx1WGjvEKF6SkN-N0qqQeBiz2-2RRDUwf3uxttAU/edit#gid=0
 
 ## Create your own
