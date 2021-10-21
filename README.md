@@ -3,7 +3,7 @@ DRAFT version
 
 ## DRAFT Live links
 - Leaflet Map https://mrdericpenn.github.io/ghiaa-congregations-map/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1bW9xx1WGjvEKF6SkN-N0qqQeBiz2-2RRDUwf3uxttAU/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1cNq9rs6yDTCLb7qJ9DgUieFuYzJH1Rd6NDVJW6qLwto/edit?usp=sharing
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
